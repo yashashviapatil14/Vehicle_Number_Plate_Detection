@@ -14,7 +14,7 @@ Through projects like this, we're contributing to smart city solutions, where au
 
 Programming Language: Python v3.9+
 
-Platform: Jupyter Notebook 
+Platform: Jupyter Notebook / Google Colab
 
 Libraries used: 
 OpenCV – Image processing (edge detection, contour detection)
